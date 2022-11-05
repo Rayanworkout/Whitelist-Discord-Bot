@@ -1,4 +1,4 @@
-
+## BOT Discord mettant en place un système de trophées grâce à des messages secrets (ou autre) dans le but d'obtenir le rôle de Whitelist.
 
 Challenges actifs:
 
